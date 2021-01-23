@@ -15,6 +15,9 @@
 3. 易语言
     - SDK: https://github.com/ProtobufBot/pbbot_e_sdk
     - 代码在"机器人处理程序集"
+    
+4. 其他语言
+    - 编写websocket server，使用二进制数据通信。消息处理代码可以使用[onebot_idl](https://github.com/ProtobufBot/onebot_idl)自动生成。参考[Protobuf](https://developers.google.com/protocol-buffers)官网，使用protoc自动生成代码，官方支持C++ C# Dart Go Java Python，通过安装protoc插件可以支持更多语言。 
 
 ## QQ机器人的软件（相当于酷Q）
 - GMC(不需要环境): https://github.com/protobufbot/go-Mirai-Client/releases
