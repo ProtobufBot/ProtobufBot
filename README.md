@@ -1,5 +1,7 @@
 # ProtobufBot
 
+[![QQ群](https://img.shields.io/static/v1?label=QQ%E7%BE%A4&message=335783090&color=blue)](https://jq.qq.com/?_wv=1027&k=B7Of3GMZ)
+
 ## 可用的编程语言和对应框架（SDK）
 
 1. Java/Kotlin
