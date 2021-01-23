@@ -24,3 +24,6 @@
 
 ## 推荐的使用方法
 先运行GMC/SMC + Demo，不修改任何代码，运行成功后再进行修改。
+
+
+![](https://github.com/ProtobufBot/ProtobufBot/blob/main/architecture.jpg?raw=true)
