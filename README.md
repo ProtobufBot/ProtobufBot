@@ -20,10 +20,10 @@
 
 ## QQ机器人的软件（相当于酷Q）
 
-| 环境   | 下载地址                                                     | 协议库  | 备注                                                |
-| ------ | ------------------------------------------------------------ | ------- | --------------------------------------------------- |
-| 不需要 | [GMC](https://github.com/protobufbot/go-Mirai-Client/releases) | miraigo | **【推荐】** 一个程序可以登陆一个号，多个号需要多开 |
-| JVM    | [SMC](https://github.com/protobufbot/spring-Mirai-Client/releases) | mirai   | 一个程序可以登陆多个号，但是没上面稳定好用          |
+| 软件                                                         | 协议库  | 环境   | 备注                                       |
+| ------------------------------------------------------------ | ------- | ------ | ------------------------------------------ |
+| [GMC](https://github.com/protobufbot/go-Mirai-Client/releases)**【推荐】** | miraigo | 不需要 | 一个程序可以登陆一个号，多个号需要多开     |
+| [SMC](https://github.com/protobufbot/spring-Mirai-Client/releases) | mirai   | JVM    | 一个程序可以登陆多个号，但是没上面稳定好用 |
 
 ## 注意
 
