@@ -4,13 +4,13 @@
 
 ## 可用的编程语言和对应框架（SDK）
 
-| 语言           | 框架地址                                                     | Demo                                                         | 核心作者  |
-| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
-| Java<br>Kotlin | [protobufbot/pbbot-spring-boot-starter](https://github.com/protobufbot/pbbot-spring-boot-starter) | [protobufbot/spring-mirai-server](https://github.com/protobufbot/spring-mirai-server) | lz1998    |
-| Node.js        | [ProtobufBot/js-pbbot](https://github.com/ProtobufBot/js-pbbot) | [example](https://github.com/ProtobufBot/js-pbbot/tree/master/example) | lz1998    |
-| Python         | [PHIKN1GHT/pypbbot](https://github.com/PHIKN1GHT/pypbbot)    | [example](https://github.com/PHIKN1GHT/pypbbot/blob/main/example.py) | PHIKN1GHT |
-| Golang         | [ProtobufBot/go-pbbot](https://github.com/protobufbot/go-pbbot) | [test](https://github.com/ProtobufBot/go-pbbot/blob/master/test/bot_test.go)                                                         | lz1998    |
-| 易语言         | [ProtobufBot/pbbot_e_sdk](https://github.com/protobufbot/pbbot_e_sdk) | 包含在框架内                                                 | GhostSn   |
+| 语言           | 框架地址                                                     | Demo                                                         | 核心作者  | 备注         |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------ |
+| Java<br>Kotlin | [protobufbot/pbbot-spring-boot-starter](https://github.com/protobufbot/pbbot-spring-boot-starter) | [protobufbot/spring-mirai-server](https://github.com/protobufbot/spring-mirai-server) | lz1998    | 有插件机制   |
+| Node.js        | [ProtobufBot/js-pbbot](https://github.com/ProtobufBot/js-pbbot) | [example](https://github.com/ProtobufBot/js-pbbot/tree/master/example) | lz1998    |              |
+| Python         | [PHIKN1GHT/pypbbot](https://github.com/PHIKN1GHT/pypbbot)    | [example](https://github.com/PHIKN1GHT/pypbbot/blob/main/example.py) | PHIKN1GHT |              |
+| Golang         | [ProtobufBot/go-pbbot](https://github.com/protobufbot/go-pbbot) | [test](https://github.com/ProtobufBot/go-pbbot/blob/master/test/bot_test.go) | lz1998    |              |
+| 易语言         | [ProtobufBot/pbbot_e_sdk](https://github.com/protobufbot/pbbot_e_sdk) | 包含在框架内                                                 | GhostSn   | 只有常用功能 |
 
 推荐**直接看Demo**，根据demo直接修改，快速上手
 
