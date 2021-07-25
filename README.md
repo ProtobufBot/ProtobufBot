@@ -9,7 +9,8 @@
 | Java<br>Kotlin | [protobufbot/pbbot-spring-boot-starter](https://github.com/protobufbot/pbbot-spring-boot-starter) | [protobufbot/spring-mirai-server](https://github.com/protobufbot/spring-mirai-server) | [lz1998](https://github.com/lz1998)       | 有插件机制                                                   |
 | Node.js        | [ProtobufBot/js-pbbot](https://github.com/ProtobufBot/js-pbbot) | [example](https://github.com/ProtobufBot/js-pbbot/tree/master/example) | [lz1998](https://github.com/lz1998)       |                                                              |
 | Python         | [PHIKN1GHT/pypbbot](https://github.com/PHIKN1GHT/pypbbot)    | [example](https://github.com/PHIKN1GHT/pypbbot/tree/main/pypbbot_examples) | [PHIKN1GHT](https://github.com/PHIKN1GHT) | [文档](https://pypbbot.kale1d0.space/) 有插件机制 |
-| Golang         | [ProtobufBot/go-pbbot](https://github.com/protobufbot/go-pbbot) | [test](https://github.com/ProtobufBot/go-pbbot/blob/master/test/bot_test.go) | [lz1998](https://github.com/lz1998)       |                                                              |
+| Golang         | [ProtobufBot/go-pbbot](https://github.com/protobufbot/go-pbbot) | [test](https://github.com/ProtobufBot/go-pbbot/blob/master/test/bot_test.go) | [lz1998](https://github.com/lz1998)       |  
+| C++         | [ProtobufBot/cpp-pbbot](https://github.com/ProtobufBot/cpp-pbbot) | [event_handler](https://github.com/ProtobufBot/cpp-pbbot/blob/main/src/event_handler/event_handler.cpp) | [lz1998](https://github.com/lz1998)       | 依赖[Drogon](https://github.com/an-tao/drogon)，需要CMake |
 | 易语言         | [ProtobufBot/pbbot_e_sdk](https://github.com/protobufbot/pbbot_e_sdk) | 包含在框架内                                                 | GhostSn                                   | 只有常用功能                                                 |
 
 推荐**直接看Demo**，根据demo直接修改，快速上手
