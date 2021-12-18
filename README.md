@@ -24,8 +24,9 @@
 
 | 软件                                                         | 协议库  | 环境   | 备注                                       |
 | ------------------------------------------------------------ | ------- | ------ | ------------------------------------------ |
-| [GMC](https://github.com/protobufbot/go-Mirai-Client/releases)**【推荐】** | miraigo | 不需要 | 一个程序可以登陆一个号，多个号需要多开     |
-| [SMC](https://github.com/protobufbot/spring-Mirai-Client/releases) | mirai   | JVM    | 一个程序可以登陆多个号，但是没上面稳定好用 |
+| [GMC](https://github.com/protobufbot/go-Mirai-Client/releases)**【推荐】** | miraigo | 不需要 |  维护中    |
+| [GMC-Android](https://github.com/protobufbot/Go-Mirai-Client-Android/releases)**【推荐】** | miraigo | 不需要 | 可在手机上运行     |
+| [SMC](https://github.com/protobufbot/spring-Mirai-Client/releases) | mirai   | JVM    | 可能有问题，长期不维护 |
 
 ## 注意
 
